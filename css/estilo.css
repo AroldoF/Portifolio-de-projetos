@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+}
+#perfil{
+    display: block;
+    border-radius: 150px;
+    float: right;
+    margin: 0;
+}
+#sobre_mim{
+    display: block;
+    margin: 0;
+    width: 800px;
+}
+main{
+    width: 800px;
+    margin: auto;
+}
+h2{
+    margin-left: 80px;
+}
