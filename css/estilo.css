@@ -3,14 +3,20 @@ header{
 }
 #perfil{
     display: block;
-    border-radius: 150px;
+    width: 100%;
+    max-width: 150px;
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
     float: right;
-    margin: 0;
+    margin: 30px 60px 0 0;
+}
+section{
+    margin: 50px 0;
+    border-top: 3px solid black;
 }
 #sobre_mim{
     display: block;
-    margin: 0;
-    width: 800px;
 }
 main{
     width: 800px;
